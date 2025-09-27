@@ -1,5 +1,4 @@
-# Walkable Bars & Restaurants (One Pager)
-
+# Walkable Bars & Restaurants
 ## Chinatown (Las Vegas)
 
 > **Scope:** Vegas’s Chinatown runs ~3 miles along Spring Mountain Rd (Rainbow Blvd → Valley View Blvd), a mile west of the Strip—dense, strip-mall style, very walkable by blocks/clusters.
